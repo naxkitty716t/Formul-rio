@@ -2,6 +2,7 @@
 <img width="400" height="30" alt="image" src="https://github.com/user-attachments/assets/89aacb67-64f0-419b-a5bb-6e4f88588e19" />
 
 🌸Olá,me chamo Nathalya Tauany🌸
+
 Sou estudante do ensino médio técnico de sistemas
 estamos trabalhando para aprender linguagens.
 
